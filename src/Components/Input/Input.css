@@ -1,0 +1,16 @@
+.input-box {
+  padding: 0.7rem;
+  border: 1px solid lightgray;
+  border-radius: 30px;
+  width: 600px;
+}
+
+.input-box:hover {
+  box-shadow: 0 0 8px rgb(207, 207, 207);
+}
+
+.input-box input {
+  border: none;
+  outline: none;
+  width: 100%;
+}
